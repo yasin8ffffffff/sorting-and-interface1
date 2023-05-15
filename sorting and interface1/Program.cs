@@ -1,0 +1,4 @@
+﻿interface Isorting
+{
+    void SortanArray();
+}
